@@ -1,0 +1,3 @@
+The 0x01 Emacs project is about learning to use the GNU Emacs, a powerful and advanced editor. It includes learning commands for opening and saving files, cutting an entire line, and pasting it back, searching forward, undo, and quitting Emacs.
+
+The Guided Tour of Emacs also has extensive information about other very useful commands on Emacs, like opening more than one window, closing and switching specific windows, cancelling half-entered commands, etc.
