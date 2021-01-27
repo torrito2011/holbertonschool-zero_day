@@ -1,0 +1,1 @@
+his project, 0x02 vi, is about learning Vi, the editor that comes with the UNIX operating system.
